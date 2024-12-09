@@ -1,2 +1,2 @@
 # Data-Structures
-basic data structure tasks 
+Basic data structure tasks in C++
